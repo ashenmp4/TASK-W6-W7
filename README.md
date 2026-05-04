@@ -1,6 +1,4 @@
 # 🔐 Vulnerability Analysis — IKB21004 & IKB21403
-> **Task: File Analysis – Scanning Result**  
-> Universiti Kuala Lumpur (UniKL)
 
 ---
 
