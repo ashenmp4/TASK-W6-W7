@@ -1,4 +1,4 @@
-# 🔐 Vulnerability Analysis — IKB21004 & IKB21403
+# 🔐 Vulnerability Analysis — IKB21403
 
 ---
 
